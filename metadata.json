@@ -1,0 +1,8 @@
+{
+  "name": "The Destination Resort",
+  "description": "Premium luxury hospitality and booking platform for The Destination Resort in Tezpur, Assam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
